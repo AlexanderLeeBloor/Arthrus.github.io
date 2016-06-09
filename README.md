@@ -1,5 +1,5 @@
 # Arthrus.github.io
-# Senseless-Valour
+Senseless-Valour
 Pre-alpha source code for D&amp;D campaign website
 
 The front-end for this website is written with HTML/CSS/jQuery.
