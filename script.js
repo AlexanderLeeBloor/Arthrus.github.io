@@ -19,20 +19,20 @@ accordion_2.find('dt').on('click', function(){
 
 var alphabet = [
 	{
-  		image: "./images/test-icon.jpg",
-		description:'A is the 1st letter of the alphabet, etc'
+  		image: "./images/Solaris.jpg",
+		description:'Lathander\'s legendary bow!' 
 	},
 	{
-	  	image: "./images/test-icon.jpg",
-  		description:'B is the 2nd letter of the alphabet, etc'  
+	  	image: "./images/Twinblade.jpg",
+  		description:'Why swing 1D8 when you can have 2D6?'  
 	},
 	{
-  		image: "./images/test-icon.jpg",
-		description:'C is the 3rd letter of the alphabet, etc'
+  		image: "./images/Sword.jpg",
+		description:'Property of the King of Gondor.'
 	},
 	{
-	  	image: "./images/test-icon.jpg",
-  		description:'D is the 4th letter of the alphabet, etc'  
+	  	image: "./images/HatOfManyThings.jpg",
+  		description:'Also used for sorting children.'  
 	},
 	{
   		image: "./images/test-icon.jpg",
@@ -59,8 +59,8 @@ var alphabet = [
   		description:'J is the 10th letter of the alphabet, etc'  
 	},
 	{
-  		image: "./images/test-icon.jpg",
-		description:'K is the 11th letter of the alphabet, etc'
+  		image: "./images/Alchemist.jpg",
+		description:'Here be alchemy...'
 	},
 	{
 	  	image: "./images/test-icon.jpg",
