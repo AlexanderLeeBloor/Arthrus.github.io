@@ -351,6 +351,10 @@ div > h1 {
     padding-bottom: 2px;
 }
 
+.tldr {
+    font-style: italic;
+}
+
 .thumbnail,
 .thumbnail_equipment,
 .thumbnail_spells,
