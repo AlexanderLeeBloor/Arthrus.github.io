@@ -35,8 +35,8 @@ var alphabet = [
   		description:'Also used for sorting children.'  
 	},
 	{
-  		image: "./images/test-icon.jpg",
-		description:'E is the 5th letter of the alphabet, etc'
+  		image: "./images/Battleaxe-Silver.jpg",
+		description:'The silver battleaxe is the favoured weapon of the Order of Clangeddin Silverbeard. Members of the order find their silvered weapons particularly useful against giants, fiends and lycanthropes.'
 	},
 	{
 	  	image:"./images/test-icon.jpg",
