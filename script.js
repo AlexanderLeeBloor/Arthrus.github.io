@@ -39,8 +39,8 @@ var alphabet = [
 		description:'The silver battleaxe is the favoured weapon of the Order of Clangeddin Silverbeard. Members of the order find their silvered weapons particularly useful against giants, fiends and lycanthropes.'
 	},
 	{
-	  	image:"./images/test-icon.jpg",
-  		description:'F is the 6th letter of the alphabet, etc'  
+	  	image:"./images/Vambraces-Elven.jpg",
+  		description:'These vambraces are crafted from the fallen leaves of plaguechanged trees in Thornwood (the rare few trees in the region that survived the spellplague). Though the natural forest eventually regrew after being replanted by elves, descendents of the plaguechanged are still found on occassion. The leaves of such trees become strong and rigid as iron when they fall, but remain light and retain their colour. They are considered precious among elvenkind.'
 	},
 	{
   		image: "./images/test-icon.jpg",

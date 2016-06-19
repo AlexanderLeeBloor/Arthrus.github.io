@@ -381,6 +381,17 @@ div > h1 {
 .thumbnail_classes h4 {
     float: bottom;
     text-align: center;
+    margin: auto;
+}
+
+.thumbnail h5,
+.thumbnail_equipment h5,
+.thumbnail_spells h5,
+.thumbnail_races h5,
+.thumbnail_classes h5 {
+    float: bottom;
+    text-align: center;
+    margin: auto;
 }
 
 .thumbnail img,
