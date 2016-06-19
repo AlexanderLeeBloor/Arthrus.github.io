@@ -67,7 +67,7 @@ div > h1 {
     background: #FFFFFF;
     color: #000000;
     cursor: pointer;
-    font-size: 1em;
+    font-size: 1.5em;
     margin-left: 10px;
     margin-right: 10px;
     padding: 0.5em 0.75em;
@@ -78,6 +78,7 @@ div > h1 {
     background: #0070A0;
     border: 1px solid #000000;
     border-radius: 3px 3px 0 0;
+    color: #FFFFFF;
 }
 
 .accordion_2 dd {
@@ -118,6 +119,14 @@ div > h1 {
     margin-right: 20px;
     padding: 0.5em 0.75em;
     width: 875px;
+}
+
+#img_equipment,
+#img_spells,
+#img_classes,
+#img_races {
+    margin: auto;
+    display: block;
 }
 
 .info_card_equipment {
@@ -478,5 +487,5 @@ div > h1 {
 
 .whitespace {
     background-color: #FFFFFF;
-    padding-bottom: 20px;
+    padding-bottom: 320px;
 }
