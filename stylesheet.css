@@ -75,7 +75,7 @@ div > h1 {
 }
 
 .accordion_2 dt.open {
-    background: #0070A0;
+    background: #999966; /*0070A0*/
     border: 1px solid #000000;
     border-radius: 3px 3px 0 0;
     color: #FFFFFF;
